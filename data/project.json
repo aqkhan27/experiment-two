@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "aqkhan27",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217985727?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "aqkhan27",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-08-12T17:45:40.194Z",
-    "updated_at": "2025-08-12T17:45:40.194Z"
-  }
+    "updated_at": "2025-08-12T17:45:40.194Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "c82cf5ba-4a68-4b53-9996-5e2b89c208ba": {
+      "content": [],
+      "created_at": "2025-08-12T17:45:40.237Z",
+      "created_by": "aqkhan27",
+      "title": "Project #2",
+      "updated_at": "2025-08-12T17:45:40.237Z",
+      "updated_by": "aqkhan27",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "c82cf5ba-4a68-4b53-9996-5e2b89c208ba"
+  ]
 }
