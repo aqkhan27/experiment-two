@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "378d86e0-0ceb-45e8-a492-88028edd7550": {
+      "label": "Lofi Girl",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=wAPCSnAhhC8&list=RDwAPCSnAhhC8&start_radio=1",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Lofi Girl",
+  "created_at": "2025-08-12T17:54:14.871Z",
+  "created_by": "aqkhan27",
+  "updated_at": "2025-08-12T17:54:14.871Z",
+  "updated_by": "aqkhan27"
+}
